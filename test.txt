@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Salut eu sunt Bogdana!
 nu, nu esti Bogdan.
+=======
+Salut eu sunt Bogdan Mesesan!
+>>>>>>> 9076048b8bc6634005166ee4bf24723b57b863ff
